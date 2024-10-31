@@ -34,3 +34,7 @@
 	path = anemoi-utils
 	url = git@github.com:ecmwf/anemoi-utils.git
 	branch = develop
+[submodule "zarr-python"]
+	path = zarr-python
+    url = git@github.com:Ozaq/zarr-python.git
+    branch = track_file_open

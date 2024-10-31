@@ -1,0 +1,36 @@
+[submodule "anemoi-datasets"]
+	path = anemoi-datasets
+	url = git@github.com:ecmwf/anemoi-datasets.git
+	branch = develop
+[submodule "anemoi-docs"]
+	path = anemoi-docs
+	url = git@github.com:ecmwf/anemoi-docs.git
+	branch = develop
+[submodule "anemoi-graphs"]
+	path = anemoi-graphs
+	url = git@github.com:ecmwf/anemoi-graphs.git
+	branch = develop
+[submodule "anemoi-inference"]
+	path = anemoi-inference
+	url = git@github.com:ecmwf/anemoi-inference.git
+	branch = develop
+[submodule "anemoi-models"]
+	path = anemoi-models
+	url = git@github.com:ecmwf/anemoi-models.git
+	branch = develop
+[submodule "anemoi-registry"]
+	path = anemoi-registry
+	url = git@github.com:ecmwf/anemoi-registry.git
+	branch = develop
+[submodule "anemoi-training"]
+	path = anemoi-training
+	url = git@github.com:ecmwf/anemoi-training.git
+	branch = develop
+[submodule "anemoi-transform"]
+	path = anemoi-transform
+	url = git@github.com:ecmwf/anemoi-transform.git
+	branch = develop
+[submodule "anemoi-utils"]
+	path = anemoi-utils
+	url = git@github.com:ecmwf/anemoi-utils.git
+	branch = develop

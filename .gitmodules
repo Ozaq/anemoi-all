@@ -1,6 +1,6 @@
 [submodule "anemoi-datasets"]
 	path = anemoi-datasets
-	url = git@github.com:ecmwf/anemoi-datasets.git
+	url = git@github.com:Ozaq/anemoi-datasets.git
 	branch = develop
 [submodule "anemoi-docs"]
 	path = anemoi-docs
@@ -24,7 +24,7 @@
 	branch = develop
 [submodule "anemoi-training"]
 	path = anemoi-training
-	url = git@github.com:ecmwf/anemoi-training.git
+	url = git@github.com:Ozaq/anemoi-training.git
 	branch = develop
 [submodule "anemoi-transform"]
 	path = anemoi-transform
